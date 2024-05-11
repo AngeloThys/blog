@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Angelo Thys",
   desc: "Personal Dev Blog",
   title: "AT's Blog",
-  ogImage: "logo-grey-green.svg",
+  ogImage: "logo.svg",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
