@@ -9,7 +9,17 @@ My name is _Angelo Thys_, the writer of this blog.
 Passionate about development, system administration and cybersecurity.
 Studying to become a self thought software engineer.
 
-## My areas of interest 📚
+## Reasons ❓
+
+The reasons for creating this blog are:
+
+🔮 A glimpse into what I'm learning and doing
+
+🖋️ Reinforce understanding of topics by writing about them
+
+🗃️ Self accountability
+
+## Areas of interest 📚
 
 What I write about varies a lot, and is motivated by my own learning
 and understanding of topics.
