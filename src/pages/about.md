@@ -3,34 +3,28 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Me 👱🏻
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+My name is _Angelo Thys_, the writer of this blog.
+Passionate about development, system administration and cybersecurity.
+Studying to become a self thought software engineer.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## My areas of interest 📚
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+What I write about varies a lot, and is motivated by my own learning
+and understanding of topics.
 
-## Tech Stack
+However, my topics of interest
+can be agglomerated under the following umbrellas ☂️:
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+- [x] Algorithms and Data Structures (Possibly some leetcode 🤖)
+- [x] Frontend development (React ⚛️, Astro 🚀 and vanilla 🍦)
+- [x] Backend development (Python 🐉, Go 🦫 and Node.js 🟢)
+- [x] Cybersecurity (Possibly some writeups 📝)
+- [x] System Administration (services⚙️, networking 🌐 and docker 🐳)
 
-## Features
+## The blog 📝
 
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+The blog is made with [Astro](https://astro.build/) 🚀
+and templated with [Astro Paper](https://github.com/satnaing/astro-paper)
+by [Sat Naing](https://satnaing.dev/).
