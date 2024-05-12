@@ -15,7 +15,7 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  build-tinacms:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout your repository using git
@@ -28,6 +28,12 @@ jobs:
           CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         run: npx tinacms build
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repository using git
+        uses: actions/checkout@v4
       - name: Install, build, and upload your site
         uses: withastro/action@v2
         # with:
